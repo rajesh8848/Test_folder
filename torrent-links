@@ -2,6 +2,16 @@ thepiratebay.org/
 *.thepiratebay.org/
 1337x.to/
 *.1337x.to/
+*.1337x.*
+1337x.^
+*.x1337x.*
+x1337x.^
+*.1377x.*
+x1377x.^
+*.1337xx.*
+1337xx.^
+*.1337xto.*
+1337xto.^
 1337x.st/
 *.1337x.st/
 1337x.gd/
