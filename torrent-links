@@ -23,7 +23,7 @@ x1377x.^
 *.x1377x.*
 yts.mx
 *.yts.mx
-yts.*
+*.yts.*
 yts.mx/*
 yts.^
 ^.yts.mx
